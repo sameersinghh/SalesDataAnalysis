@@ -32,3 +32,24 @@ Sales Data Analytics dashboard project built using Power BI, SQL to analyse reve
 
 - Step 9: Created various types of visualisations (map, bar chart, scatter plot, line chart, column chart) using different filters (both measures and edit interactions).
 
+# Screenshots
+
+- Sales Overview
+  
+  <img width="1418" height="793" alt="Image" src="https://github.com/user-attachments/assets/a93d2b85-80ee-408e-bba4-e14d14a545b2" />
+
+- Top/Bottom 5 Analysis
+  
+  <img width="1416" height="793" alt="Image" src="https://github.com/user-attachments/assets/99535f9d-857c-43c6-ad82-83abae3e2676" />
+
+- Custom Date Filters using measures
+  
+  <img width="1414" height="792" alt="Image" src="https://github.com/user-attachments/assets/b5eb0102-4995-41bf-81f0-7e3d7f4ad718" />
+
+- Custom Date Filters using edit iteractions
+  
+  <img width="1418" height="793" alt="Image" src="https://github.com/user-attachments/assets/263c95a6-55a3-4c73-8ec1-f8287dd48d25" />
+
+- Linking dimension table slicers
+  
+  <img width="1417" height="796" alt="Image" src="https://github.com/user-attachments/assets/a443d68e-037c-465a-80c3-160075115656" />
