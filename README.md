@@ -1,6 +1,8 @@
 # Sales Data Analysis
 Sales Data Analytics dashboard project built using Power BI, SQL to analyse revenue trends, customer behaviour, KPI performance, and regional sales insights through interactive visualisations.
 
+Link : https://app.powerbi.com/groups/me/reports/695c298a-84a8-4571-b8cb-d96678b615fa?ctid=8cb6efdc-e967-4f25-b141-f1002ca257dd&pbi_source=linkShare&bookmarkGuid=9714f8f5-199b-475e-908d-5e8c52bde149
+
 # Problem Statement / Requirements
 
 1) Top/Bottom 5 products by Sales/Profit/Quantity Sold.
